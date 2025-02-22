@@ -3,4 +3,13 @@ DOMAIN-SUFFIX,amp-api.podcasts.apple.com
 DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,bag.itunes.apple.com
 DOMAIN-SUFFIX,bookeeper.itunes.apple.com
+USER-AGENT,News
+USER-AGENT,Maps
 USER-AGENT,Podcast*
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,apple.comscoreresearch.com
+DOMAIN,news-client.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN-SUFFIX,apple.news
