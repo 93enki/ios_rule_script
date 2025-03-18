@@ -4,4 +4,6 @@ DOMAIN-SUFFIX,podcasts.apple.com
 DOMAIN-SUFFIX,bag.itunes.apple.com
 DOMAIN-SUFFIX,bookeeper.itunes.apple.com
 DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,firstory.me
+DOMAIN-SUFFIX,pse.is
 USER-AGENT,Podcast*
